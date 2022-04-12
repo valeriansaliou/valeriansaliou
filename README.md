@@ -12,5 +12,5 @@ _What I do:_
 
 _What I am interested in:_
 
-- My domains of expertise are: messaging, protocols, cryptography, XMPP, Rust programming, distributed systems, microservices, fault-tolerant architectures.
-- On my spare time, I also like to learn about economics, 3D printing and CAD modeling.
+- My domains of expertise are: messaging, protocols, cryptography, the XMPP standard, Rust programming, distributed systems, microservices and fault-tolerant architectures.
+- On my spare time, I also like to learn about: economics, 3D printing and CAD modeling.
