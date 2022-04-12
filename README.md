@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** and **Product Designer**. I spend my time building things.
 
-_What I do:_
+_What I am working on:_
 
 - I am currently CTO at [Crisp](https://crisp.chat/), a customer support SaaS, that I co-founded with [Baptiste Jamin](https://github.com/baptistejamin).
 - On the side, I am also working on [Prose](https://prose.org/), a decentralized team messaging app, powered by [XMPP](https://xmpp.org/).
