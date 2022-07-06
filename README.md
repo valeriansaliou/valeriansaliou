@@ -14,3 +14,5 @@ _What I am interested in:_
 
 - My domains of expertise are: messaging, protocols, cryptography, the XMPP standard, Rust programming, JavaScript full-stack development, application design, distributed systems, microservices and fault-tolerant architectures.
 - On my spare time, I also like to learn about: economics, 3D printing and CAD modeling.
+
+All my work on GitHub is signed with my [:key:GPG key](https://valeriansaliou.name/files/keys/valeriansaliou.gpg.pub.asc), which you may use to verify the authenticity of anything published under my name.
